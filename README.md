@@ -1,5 +1,5 @@
 # SoundRecord
-Simple Base for a SoundRecorder based on BoundService and BroadcastReceiver
+Simple Base for a SoundRecorder based on BoundService and BroadcastReceiver this project can be used to make recorder or media player or what ever you need good start to see how to properly make it.
 
 Tree Types Services?
 
